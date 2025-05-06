@@ -256,7 +256,7 @@ class WelcomeScreen:
         
         # Komponen GUI
         Label(self.frame, 
-              text="Selamat Datang di Aplikasi Manajemen Proyek",
+              text="Selamat Datang di Aplikasi Taskora",
               font=("Helvetica", 16, "bold"), 
               bootstyle="dark").pack(pady=30)
         
